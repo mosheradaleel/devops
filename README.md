@@ -1,2 +1,2 @@
 # devops
-purpose to test
+purpose to test only
